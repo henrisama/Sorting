@@ -27,6 +27,7 @@ void Merge(int p, int q, int r, int *array){
 	}
 	for(i=p; i<r; i++)
 		array[i] = aux[i-p];
+	free(aux);
 }
 
 void MergeSort(int p, int r, int *array){
