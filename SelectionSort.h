@@ -1,3 +1,9 @@
+void Exchange(int *a, int *b){
+	int aux = *a;
+	*a = *b;
+	*b = aux;
+}//inverts the values
+
 void SelectionSort(int amount, int *array){
 	int i, j, min;
 	for(i=0; i<(amount-1); i++){
