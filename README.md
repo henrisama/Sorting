@@ -1,4 +1,7 @@
 # **Sorting Algorithms** 💻
+![License: MIT](https://img.shields.io/github/license/henrisama/Sorting?color=green&label=License)
+![Size](https://img.shields.io/github/repo-size/henrisama/Sorting?label=Size)
+![Repo Stars](https://img.shields.io/github/stars/henrisama/Sorting?style=social)
 
 ## **Algorithms**
 ### Simple Algorithms:
