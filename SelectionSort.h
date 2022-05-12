@@ -1,4 +1,4 @@
-void Exchange(int *a, int *b){
+void swap(int *a, int *b){
 	int aux = *a;
 	*a = *b;
 	*b = aux;
@@ -12,6 +12,6 @@ void SelectionSort(int amount, int *array){
 			if(array[min] > array[j])
 				min = j;
 		}
-		Exchange(&array[i], &array[min]);
+		swap(&array[i], &array[min]);
 	}
 }//complexity O(n²)
