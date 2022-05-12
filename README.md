@@ -2,14 +2,14 @@
 
 ## **Algorithms**
 ### Simple Algorithms:
-  - BubbleSort
-  - InsertionSort
-  - SelectionSort
+- [x] BubbleSort
+- [x] InsertionSort
+- [x] SelectionSort
 
 ### Complex Algorithms:
-  - MergeSort
-  - QuickSort
-  - HeapSort
+- [x] MergeSort
+- [x] QuickSort
+- [ ] HeapSort
 
 ## **BubbleSort**
 | Complexity |   |
