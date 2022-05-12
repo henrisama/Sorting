@@ -1,4 +1,4 @@
-# Sorting Algorithms
+# **Sorting Algorithms** 💻
 
 ## **Algorithms**
 ### Simple Algorithms:
@@ -50,7 +50,17 @@
 ## **QuickSort**
 | Complexity |   |
 |---|---|
-| Best Case | $O(n)$ |
-| Avarege Case | $O(n^2)$ |
+| Best Case | $O(n$ $log$ $n)$ |
+| Avarege Case | $O(n$ $log$ $n)$ |
 | Worst Case | $O(n^2)$ |
 
+![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+
+## **HeapSort**
+| Complexity |   |
+|---|---|
+| Best Case | $O(n$ $log$ $n)$ |
+| Avarege Case | $O(n$ $log$ $n)$ |
+| Worst Case | $O(n$ $log$ $n)$ |
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif)
