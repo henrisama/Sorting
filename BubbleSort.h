@@ -1,4 +1,4 @@
-void Exchange(int *a, int *b){
+void swap(int *a, int *b){
 	int aux = *a;
 	*a = *b;
 	*b = aux;
@@ -10,7 +10,7 @@ void BubbleSort(int amount, int *array){
 	for(i=amount-1; i>0; i--){
 		for(j=0; j<i; j++){
 			if(array[j] > array[j+1]){
-				Exchange(&array[j], &array[j+1]);
+				swap(&array[j], &array[j+1]);
 			}
 		}
 	}
