@@ -59,8 +59,8 @@
 ## **HeapSort**
 | Complexity |   |
 |---|---|
-| Best Case | O(n log n) |
-| Avarege Case | O(n log n) |
-| Worst Case | O(n log n) |
+| Best Case | $O(n$ $log$ $n)$ |
+| Avarege Case | $O(n$ $log$ $n)$ |
+| Worst Case | $O(n$ $log$ $n)$ |
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif)
