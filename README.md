@@ -69,5 +69,5 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif)
 
 ## *Links*
-  - [Algorithms]([repository](https://github.com/henrisama/Algorithms)) repository
+  - [Algorithms](https://github.com/henrisama/Algorithms) repository
   - [Trees](https://github.com/henrisama/Trees) repository
